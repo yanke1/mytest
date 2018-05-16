@@ -11,4 +11,7 @@ public class JavaFirst {
 	public void testHelloWrold1() {
 		System.out.println("HelloWorld!");
 	}
+	public void testHelloWrold2() {
+		System.out.println("HelloWorld!");
+	}
 }
